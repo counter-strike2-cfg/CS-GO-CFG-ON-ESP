@@ -1,1 +1,2 @@
-# CS-GO-CFG-ON-ESP
+ENG:To use this config, you need to download the file and place it in the path steamapps-common-csgo-legasy-csgo-cfg. Then, type exec wh in the console and you're done. You can use it with my aimbot on my page.
+RUS:что бы использовать этот конфиг нужно скачать файл,поместить его по пути steamapps-common-csgo legasy-csgo-cfg.Потом в консоли прописать exec wh и все готово.Можно использовать вместе с моим аимботом на моей странице.
